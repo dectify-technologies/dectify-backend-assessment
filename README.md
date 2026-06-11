@@ -12,7 +12,7 @@ Backend Intern Technical Assessment
 
 Build a scalable backend service for lead management, scoring, authentication, and data processing.
 
-⸻
+
 📚 **Quick Links**
 
 - [Overview](#-overview)
@@ -28,7 +28,7 @@ Build a scalable backend service for lead management, scoring, authentication, a
 - [Evaluation Criteria](#-evaluation-criteria)
 - [Submission Instructions](#-submission-instructions)
 
-⸻
+
 
 # 📖 Overview
 
@@ -400,4 +400,4 @@ Good Luck!
 
 We look forward to seeing how you think, design, and build.
 
-**— DECTIFY Recruitment Te
+**— DECTIFY Recruitment Team
