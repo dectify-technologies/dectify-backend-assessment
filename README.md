@@ -1,10 +1,10 @@
-DECTIFY Backend Engineering Assessment
+DECTIFY Backend Intern Assessment
 
 ⏰ Submission Deadline
 
-📅 12 June 2026 (Friday) — 2:00 PM IST
+📅 18 June 2026 (Thursday) — 6:00 PM IST
 
-⚠️ You have 24 hours from the time of receiving this assessment to complete and submit your solution.
+⚠️ You have 28 hours from the time of receiving this assessment to complete and submit your solution.
 
 ⸻
 
